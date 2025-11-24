@@ -1,51 +1,17 @@
-# ITSM Manager Portfolio
+# KPI Dashboard
 
-This portfolio demonstrates practical leadership, process design, and operational excellence across IT Service Management and IT Asset Management. All items are built to showcase measurable results, workflow maturity, and real-world readiness for IT Service Desk Manager roles.
+This folder contains a clean sample dashboard designed to demonstrate how I track and manage Service Desk performance.
 
-## Included Projects
+## Metrics Included
+- Ticket volume  
+- ASA (Average Speed to Answer)  
+- FCR (First Contact Resolution)  
+- ABR (Abandon Rate)  
+- CSAT  
+- SLA Compliance  
 
-### 1. KPI Dashboard (Operations Performance)
-A compact demo dashboard tracking:
-- Ticket volume
-- ASA
-- FCR
-- ABR
-- CSAT
-- SLA compliance
+## Usage
+Open the Excel file and replace the sample data with real or anonymized service desk numbers.  
+Charts update automatically.
 
-Includes mock data, charts, and a review-ready format.
-
-➡️ `/KPI-Dashboard/`
-
----
-
-### 2. IT Asset Lifecycle Case Study
-A concise improvement summary covering:
-- Standardized lifecycle workflow
-- Before → After KPIs
-- ROI improvements
-- Workflow diagram (optional add-on)
-
-➡️ `/Asset-Lifecycle-Case-Study/`
-
----
-
-### 3. Service Desk SOP Toolkit
-A practical operations framework including:
-- Ticket handling SOP  
-- Escalation matrix  
-- Onboarding/offboarding checklist  
-- Daily/weekly/monthly cadence  
-
-➡️ `/Service-Desk-SOP-Toolkit/`
-
----
-
-## Purpose
-This repo gives recruiters and hiring managers a direct look into:
-- Your leadership style  
-- Your approach to metrics  
-- Your operational structure  
-- Your ability to standardize, optimize, and scale IT support  
-
-Perfect for linking directly on LinkedIn, resumes, and contracting profiles.
+This dashboard supports weekly operations reviews and SLA governance.
